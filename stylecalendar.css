@@ -1,0 +1,249 @@
+#formContatti .poliarte-label,
+#formContatti .poliarte-input,
+#formContatti .poliarte-checkbox-text,
+#formContatti .form-control,
+#formContatti .poliarte-anno-display,
+#formContatti .poliarte-note {
+    color: #fff;
+}
+
+
+#formContatti hr {
+    color: #fff;
+}
+
+.poliarte-textarea {
+    width: 100%;
+}
+
+#formContatti #submitBtn {
+    color: #DA0615;
+    background: #fff;
+}
+
+
+.poliarte-label,
+.poliarte-input,
+.poliarte-checkbox-text,
+.form-control,
+.poliarte-anno-display {
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #151515;
+}
+
+#corsoNormale>div:nth-child(2)>label {
+    display: flex;
+}
+
+.poliarte-label {
+    text-transform: uppercase;
+    display: none;
+    margin-bottom: 10px;
+}
+
+.poliarte-form select,
+.poliarte-form input:not([type='checkbox']) {
+    border: 0;
+    background: transparent !important;
+    border-bottom: 1px solid #E6E6E6;
+    padding: 15px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#annoScuola {
+    font-size: 15px;
+}
+
+.poliarte-field {
+    margin: 20px 0;
+}
+
+#submitBtn {
+    border-radius: 32px;
+    opacity: 1;
+    padding-top: 12px;
+    padding-right: 24px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    background: #DA0615;
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    vertical-align: middle;
+    color: white;
+    border: 0;
+    width: 100%;
+}
+
+
+.poliarte-container h3,
+.poliarte-container h4 {
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 38px;
+    line-height: 38px;
+    letter-spacing: -1px;
+}
+
+.poliarte-container h4 {
+    margin-top: 80px !important;
+}
+
+#orari-container-7 p {
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0%;
+}
+
+
+
+.poliarte-accordion-header {
+    display: none;
+}
+
+.poliarte-accordion-body {
+    border: 0;
+}
+
+.poliarte-table th {
+    background: none;
+    text-align: left;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #DA0615;
+}
+
+.poliarte-table td {
+    border-left: 0;
+    border-right: 0;
+    text-align: left;
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #151515;
+
+}
+
+.poliarte-fascia-title {
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 120%;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #DA0615;
+}
+
+.poliarte-fascia {
+    padding: 20px;
+    background: rgba(221, 221, 221, 0.2);
+    width: 28%;
+    float: left;
+    margin: 10px;
+}
+
+.poliarte-slot {
+    padding: 12px 24px;
+    border-radius: 32px;
+    background: transparent;
+    color: #151515;
+    border: 1px solid #151515;
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+}
+
+.poliarte-slot:hover {
+    /* background: #2980b9; */
+    background: #151515;
+    color: #fff;
+}
+
+.poliarte-btn {
+    border-radius: 32px;
+    opacity: 1;
+    padding-top: 12px;
+    padding-right: 24px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    vertical-align: middle;
+    color: white;
+    border: 0;
+}
+
+.poliarte-btn.poliarte-btn-success {
+    background: #DA0615;
+}
+
+.poliarte-form-group label {
+    display: none;
+}
+
+.poliarte-modal-header {
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 38px;
+    line-height: 38px;
+    letter-spacing: -1px;
+}
+
+.poliarte-modal-body p {
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0%;
+}
+
+
+.poliarte-form-group input,
+.poliarte-form-group select,
+.poliarte-form-group textarea {
+    opacity: 1;
+    padding: 15px;
+    border: 0;
+    border-bottom: 1px solid #E6E6E6;
+    border-radius: 0;
+    background: transparent;
+    font-family: "ATF Franklin Gothic", Sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #151515;
+}
+
+.poliarte-btn-cancel:hover {
+    background: #ddd;
+}

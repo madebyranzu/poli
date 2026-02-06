@@ -1,0 +1,83 @@
+#formContatti .poliarte-label,
+#formContatti .poliarte-input,
+#formContatti .poliarte-checkbox-text,
+#formContatti .form-control,
+#formContatti .poliarte-anno-display,
+#formContatti .poliarte-note {
+  color: #fff;
+}
+
+
+#formContatti hr {
+  color: #fff;
+}
+
+.poliarte-textarea {
+  width: 100%;
+}
+
+#formContatti #submitBtn {
+  color: #DA0615;
+  background: #fff;
+}
+
+
+.poliarte-label,
+.poliarte-input,
+.poliarte-checkbox-text,
+.form-control,
+.poliarte-anno-display {
+  font-family: "ATF Franklin Gothic", Sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #151515;
+}
+
+#corsoNormale>div:nth-child(2)>label {
+  display: flex;
+}
+
+.poliarte-label {
+  text-transform: uppercase;
+  display: none;
+  margin-bottom: 10px;
+}
+
+.poliarte-form select,
+.poliarte-form input:not([type='checkbox']) {
+  border: 0;
+  background: transparent !important;
+  border-bottom: 1px solid #E6E6E6;
+  padding: 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#annoScuola {
+  font-size: 15px;
+}
+
+.poliarte-field {
+  margin: 20px 0;
+}
+
+#submitBtn {
+  border-radius: 32px;
+  opacity: 1;
+  padding-top: 12px;
+  padding-right: 24px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  background: #DA0615;
+  font-family: "ATF Franklin Gothic", Sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  vertical-align: middle;
+  color: white;
+  border: 0;
+  width: 100%;
+}
